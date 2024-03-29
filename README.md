@@ -111,6 +111,8 @@ Share with specific people or groups
 
 ![google-calendar-step-3](.github/docs/google-calendar/4.png)
 
+> Copy the `client_email` from the credentials file previously downloaded from GCP and add this email in this step.
+
 ### Step 4
 
 Copy calendar ID
