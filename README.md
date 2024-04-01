@@ -165,7 +165,7 @@ $ ./golang-calendar-cli agenda ID
 Create a new event
 
 ```sh
-$ ./golang-calendar-cli events insert --title "New Event” --description "New Event Description” --location "My home” --dateTimeStart "2024-03-29T09:00:00-03:00" --dateTimeEnd "2024-03-29T17:00:00-03:00"
+$ ./golang-calendar-cli events insert --title "New Event" --description "New Event Description" --location "My home" --dateTimeStart "2024-03-29T09:00:00-03:00" --dateTimeEnd "2024-03-29T17:00:00-03:00"
 ```
 
 > For more details run: `./golang-calendar-cli events insert -h`
